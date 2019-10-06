@@ -1,0 +1,19 @@
+{
+  "name": "toolbox-api-consumer",
+  "version": "1.0.0",
+  "description": "Api consumer para test de toolbox",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/DanielStocco/api-cunsumer-toolbox-test.git"
+  },
+  "author": "Daniel Stocco <daniel.stocco@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanielStocco/api-cunsumer-toolbox-test/issues"
+  },
+  "homepage": "https://github.com/DanielStocco/api-cunsumer-toolbox-test#readme"
+}
